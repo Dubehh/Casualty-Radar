@@ -1,7 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.ComponentModel;
-using System.Diagnostics;
 using System.Windows.Forms;
 using Casualty_Radar.Core;
 using Casualty_Radar.Core.Algorithms;
