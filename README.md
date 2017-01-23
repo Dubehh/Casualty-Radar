@@ -29,3 +29,5 @@ Dit project is in opdracht van Windesheim gerealiseerd door:
 - Eelco Eikelboom
 - Hugo Kamps
 - Dennis Rump
+
+Waarschuwing: Deze applicatie is niet bruikbaar voor mensen uit terneuzen.
